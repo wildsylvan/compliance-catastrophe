@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+html {
+  zoom: 0.9;
+}
+
+.shadow-brutal {
+  box-shadow: 6px 6px 0px black;
+}
